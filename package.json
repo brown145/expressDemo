@@ -1,0 +1,31 @@
+{
+  "name": "expressdemo",
+  "version": "1.0.0",
+  "description": "Hello world with Expressjs Nodejs MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brown145/expressDemo.git"
+  },
+  "keywords": [
+    "expressjs",
+    "nodejs",
+    "mongodb",
+    "helloworld"
+  ],
+  "author": "Scott Brown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brown145/expressDemo/issues"
+  },
+  "homepage": "https://github.com/brown145/expressDemo#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.12",
+    "pug": "^2.0.0-alpha3"
+  }
+}
